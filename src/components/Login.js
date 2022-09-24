@@ -41,7 +41,7 @@ export default function Login() {
                         <button type='submit' className='btn text-white mt-4' style={{backgroundColor: '#FF9900'}}>Login</button> 
                     </form>
                     <div className='mt-4'>
-                    <span className='mt-3'>Already have an account? <a href='#Signup' className='text-decoration-none'>Sign Up</a></span>
+                    <span className='mt-3'>Don't have an account? <a href='#Signup' className='text-decoration-none'>Sign Up</a></span>
                     <span className='mt-3 ps-5'><a href='#Reset' className='text-decoration-none'>Forgot Password?</a></span>
                     </div>
                     </div>
