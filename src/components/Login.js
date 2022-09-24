@@ -22,7 +22,7 @@ export default function Login() {
        }
 }
     return (
-    <div className='container text-center mt-5'>
+    <div className='container text-center mt-3'>
          <div className='row bottomMargin'>
           
             <div className='col-sm-6 mt-5 illust-mobile'>
